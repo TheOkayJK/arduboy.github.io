@@ -25,7 +25,7 @@
             {"name": "Arduboy"},
             {"name": "Arduboy DevKit"}
           ],
-        }
+          "toolsDependencies": [],
       ],
       "tools":[]
     }
